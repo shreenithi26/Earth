@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+body,html{
+    overflow-x: hidden;
+    
+}
+
+.text{
+    color: aliceblue;
+    position: absolute;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    left: 43%;
+    top: 50px;
+    font-size: 30px;
+    pointer-events: none;
+
+}
